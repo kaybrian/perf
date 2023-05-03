@@ -35,7 +35,7 @@ const OnboardingScreen = () => {
                                 height: 400,
                             }}
                         />,
-                        title: 'Dreams',
+                        title: 'Pref',
                         subtitle: "Meet your new virtual personal friend! They're here to keep you company and offer support.",
                     },
 
